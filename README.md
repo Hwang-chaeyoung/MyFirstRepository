@@ -16,5 +16,5 @@
    - 아이디어 : 고양이 사진을 올리고 관련된 이야기를 할 수 있는 커뮤니티앱입니다. 
                 길고양이, 집고양이 사진등을 공유하고 생활정보를 공유하는 앱입니다.
 ##7주차 과제
-<img width="" height="" src="./png/7-1.JPG"></img>
-<img width="" height="" src="./png/7-2.JPG"></img>
+<img width="" height="" src="./png/7_1.JPG"></img>
+<img width="" height="" src="./png/7_2.JPG"></img>
